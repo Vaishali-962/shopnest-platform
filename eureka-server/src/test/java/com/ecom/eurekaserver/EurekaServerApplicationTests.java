@@ -1,13 +1,13 @@
-package com.ecom.shopnest;
+package com.ecom.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShopnestPlatformApplicationTests {
+class EurekaServerApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
